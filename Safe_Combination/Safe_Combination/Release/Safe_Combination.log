@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Safe_Combination.cpp
+c:\users\elliot rihan\source\repos\safe_combination\safe_combination\safe_combination.cpp(13): warning C4101: 'close': unreferenced local variable
+  Generating code
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Safe_Combination.vcxproj -> C:\Users\Elliot Rihan\source\repos\Safe_Combination\Release\Safe_Combination.exe

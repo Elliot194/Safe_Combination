@@ -1,0 +1,3 @@
+﻿  Safe_Combination.cpp
+c:\users\elliot rihan\source\repos\safe_combination\safe_combination\safe_combination.cpp(13): warning C4101: 'close': unreferenced local variable
+  Safe_Combination.vcxproj -> C:\Users\Elliot Rihan\source\repos\Safe_Combination\Debug\Safe_Combination.exe
